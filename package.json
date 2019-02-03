@@ -7,7 +7,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0" //for challenge 7 make it 2.10.2
+		"moment": "2.14.0" //for challenge 7 make it 2.10.2  //for challenge 8 make it 2.10.~
 	},
 	"main": "server.js",
 	"scripts": {
